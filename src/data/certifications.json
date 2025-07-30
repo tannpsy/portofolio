@@ -38,5 +38,13 @@
     "date": "May 25, 2025",
     "credentialType": "link",
     "credential": "https://www.credly.com/badges/1b921cb6-bba8-4c32-93cb-9b38eef34601"
+  },
+  {
+    "id": 6,
+    "title": "Fundamentals of Data Science",
+    "image": "data-science.png",
+    "date": "July 9, 2025",
+    "credentialType": "link",
+    "credential": "https://digitalent.kominfo.go.id/cek-sertifikat"
   }
 ]

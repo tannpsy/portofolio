@@ -22,5 +22,13 @@
     "year": "2025",
     "description": "I acted as the primary liaison between the event committee and guest speakers, ensuring clear communication and smooth coordination throughout the preparation and execution stages. I also established and maintained communication with high school partners to support event participation and logistics. Additionally, I managed all speaker-related needs, including accommodations, technical requirements, and scheduling, to ensure a seamless experience for invited guests.",
     "image": "temu-alumni.jpg"
+  },
+  {
+    "id": 4,
+    "title": "iCon (Informatics Connect)",
+    "position": "Event Organizer",
+    "year": "2025",
+    "description": "being part of ICON (Informatics Connect), a comparative study event where we visited HMIF (Himpunan Mahasiswa Informatika) at Universitas Multimedia Nusantara (UMN). The event took place on March 15, 2025, at UMN, Tangerang, and was filled with valuable sharing sessions about each organization’s programs, initiatives, and culture",
+    "image": "icon.jpg"
   }
 ]
