@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Fullstack",
+    "subsections": [
+      {
+        "subtitle": "Frontend",
+        "skills": [
+          { "name": "React" },
+          { "name": "Tailwind CSS" },
+          { "name": "HTML" },
+          { "name": "CSS" },
+          { "name": "Vite" },
+          { "name": "Bootstrap" }
+        ]
+      },
+      {
+        "subtitle": "Backend",
+        "skills": [
+          { "name": "Node.js" },
+          { "name": "PHP" },
+          { "name": "Laravel" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Database",
+    "subsections": [
+      {
+        "subtitle": "Relational",
+        "skills": [
+          { "name": "MySQL" }
+        ]
+      },
+      {
+        "subtitle": "Realtime & NoSQL",
+        "skills": [
+          { "name": "Firebase" },
+          { "name": "MongoDB" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Programming Language",
+    "subsections": [
+      {
+        "subtitle": "Languages",
+        "skills": [
+          { "name": "Python" },
+          { "name": "Java" },
+          { "name": "JavaScript" },
+          { "name": "PHP" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "subsections": [
+      {
+        "subtitle": "Development Tools",
+        "skills": [
+          { "name": "Git" },
+          { "name": "Blender" },
+          { "name": "Arduino" },
+          { "name": "Google Colab" },
+          { "name": "Microsoft Office" },
+          { "name": "Postman" },
+          { "name": "Kaggle" },
+          { "name": "Hugging Face" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Artificial Intelligence",
+    "subsections": [
+      {
+        "subtitle": "Machine Learning",
+        "skills": [
+          { "name": "TensorFlow" },
+          { "name": "ScikitLearn" },
+          { "name": "Pandas"},
+          { "name": "Supervised Learning" },
+          { "name": "Unsupervised Learning" },
+          { "name": "Classification" },
+          { "name": "Regression" },
+          { "name": "Hyperparameter Tuning" }
+        ]
+      },
+      {
+        "subtitle": "Deep Learning",
+        "skills": [
+          { "name": "TensorFlow" },
+          { "name": "Keras" },
+          { "name": "PyTorch" },
+          { "name": "CNN" },
+          { "name": "RNN" }
+        ]
+      },
+      {
+        "subtitle": "Computer Vision",
+        "skills": [
+          { "name": "TensorFlow" },
+          { "name": "YOLO" },
+          { "name": "TensorFlow" },
+          { "name": "OpenCV" },
+          { "name": "Pillow (PIL)" }
+        ]
+      },
+      {
+        "subtitle": "Natural Language Processing (NLP)",
+        "skills": [
+          { "name": "NLTK" },
+          { "name": "spaCy" },
+          { "name": "Transformers"}
+        ]
+      }
+    ]
+  }
+]

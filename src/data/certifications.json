@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Duolingo English Test",
+    "image": "duolingo.png",
+    "date": "August 2023 - August 2025",
+    "credentialType": "pdf",
+    "credential": "Duolingo_English_Test.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Cloud Computing",
+    "image": "intro-cloud-computing.png",
+    "date": "April 28, 2025",
+    "credentialType": "link",
+    "credential": "https://drive.google.com/file/d/1m7PJyiUdAjUMK7MhZQeYesDu0UhutFfa/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "title": "Pra-Hackathon",
+    "image": "pra-hackathon.png",
+    "date": "May 22, 2025",
+    "credentialType": "link",
+    "credential": "https://drive.google.com/file/d/1FbuX1r0QfHUqtmxoq35mJAF0Bwj1diFX/view?usp=sharing"
+  },
+  {
+    "id": 4,
+    "title": "Alibaba Cloud Model Studio and Qwen",
+    "image": "alibaba-cloud.png",
+    "date": "May 8, 2025",
+    "credentialType": "link",
+    "credential": "https://drive.google.com/file/d/1eHB8Q7ZgAfdl7QpXwA86-FQNm7xHaPnf/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Data Science",
+    "image": "cisco-data-science.png",
+    "date": "May 25, 2025",
+    "credentialType": "link",
+    "credential": "https://www.credly.com/badges/1b921cb6-bba8-4c32-93cb-9b38eef34601"
+  }
+]

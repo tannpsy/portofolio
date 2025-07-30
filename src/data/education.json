@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "level": "University",
+    "name": "President University",
+    "gpa": "3.92/4.00",
+    "location": "Cikarang, Indonesia",
+    "period": "2023 - Present",
+    "points": [
+      "Bachelor's in Informatics with AI concentration",
+      "Active in organizational committees and research"
+    ]
+  },
+  {
+    "id": 2,
+    "level": "High School",
+    "name": "SMA Negeri 1 Cikarang Selatan",
+    "gpa": "88.3/100",
+    "location": "Cikarang, Indonesia",
+    "period": "2020 - 2023",
+    "points": [
+      "Science Major with Mathematics and Physics focus",
+      "Graduated with honors"
+    ]
+  }
+]

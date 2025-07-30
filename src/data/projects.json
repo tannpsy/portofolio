@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Merchandise Center",
+    "description": "An AI system was developed to analyze and summarize e-commerce customer reviews in real time, leveraging machine learning and deep learning to classify sentiment and produce concise summaries. The solution enables businesses to make data-driven decisions more efficiently.",
+    "image": "merchandise.png",
+    "tools": ["Vite + ReactJS", "Python", "Tensorflow", "PyTorch", "DeBerta", "DistilBERT", "Google Colab", "Docker"],
+    "github": "https://github.com/tannpsy/RIYAN_shop.git"
+  },
+  {
+    "id": 2,
+    "title": "Autonomous Robotic Car",
+    "description": "A web app that summarizes Indonesian YouTube videos using mT5 and Whisper to improve accessibility and learning efficiency.",
+    "image": "autonomous.jpg",
+    "tools": ["React", "Node.js", "Tailwind CSS", "Vite", "mT5", "Whisper"],
+    "github": "https://github.com/yourusername/riya-summarization"
+  },
+  {
+    "id": 3,
+    "title": "Tomato Ripeness - Computer Vision",
+    "description": "A deep learning-powered computer vision system was developed to automatically classify tomatoes into unripe, semi-ripe, and fully ripe categories, supporting agricultural automation while improving quality control and operational efficiency in food supply chains.",
+    "image": "tomato-ripeness.png",
+    "tools": ["YOLOv8m", "YOLOV5m", "Kaggle", "TomatOD Dataset", "Google Colab", "Python"],
+    "github": "https://github.com/tannpsy/tomatoripeness.git"
+  },
+  {
+    "id": 4,
+    "title": "Medical Chatbot and Question Answering",
+    "description": "An AI-powered medical chatbot was created to answer health-related questions using Natural Language Processing (NLP). It interprets user queries and delivers structured, accurate responses, enhancing access to medical information while showcasing practical NLP applications.",
+    "image": "medical-chatbot.png",
+    "tools": ["Python", "Dart Flutter", "Flask", "Hugging Face Transformers", "Unsloth", "LoRA", "CUDA", "Ngrok", "ROUGE"],
+    "github": "https://github.com/RasonYudha4/riya_chatbot.git"
+  },
+  {
+    "id": 5,
+    "title": "RIYA Summarization",
+    "description": "This project is a multilingual Speech-to-Text Summarization System utilizing Natural Language Processing (NLP) and deep learning techniques. It transcribes spoken language into text and generates concise summaries using advanced transformer models (mT5 and mBART). The system features a clean, user-friendly web interface built with Flask, enabling seamless user interaction for both spoken and typed inputs across multiple languages.",
+    "image": "RIYA-summarization.jpg",
+    "tools": ["Python", "Hugging Face Transformers", "NLTK", "Jieba", "Flask", "Evaluation Metrics"],
+    "github": "https://github.com/tannpsy/riyasummarization.git"
+  },
+  {
+    "id": 6,
+    "title": "Pookies - Chatbot Mobile Application",
+    "description": "A simple chatbot built with Android Studio, connected to Gemini, and integrated with Firebase and SQLite for data management.",
+    "image": "pookies.png",
+    "tools": ["Android Studio", "Java", "Gemini", "Firebase", "SQLite"],
+    "github": "https://github.com/tannpsy/Pookies-app.git"
+  },
+  {
+    "id": 7,
+    "title": "3D CGA",
+    "description": "A 3D animated scene was developed depicting a rainy urban night city with stylized low-poly characters, focusing on atmospheric storytelling and environmental interaction.",
+    "image": "cga.png",
+    "tools": ["Blender"],
+    "docs": "https://docs.google.com/document/d/3d-cga-docs-id"
+  },
+  {
+    "id": 8,
+    "title": "PAPI - IPR",
+    "description": "A GUI-based image processing application was developed to enable users to edit, analyze, and enhance images efficiently, showcasing practical computer vision techniques for segmentation, restoration, compression, and matching.",
+    "image": "papi.png",
+    "tools": ["Python", "OpenCV", "NumPy", "Pillow (PIL)", "SciPy", "Math Library"],
+    "github": "https://github.com/hwasyui/papi.git"
+  },
+  {
+    "id": 9,
+    "title": "WellBelle - Medical Chatbot",
+    "description": "An AI chatbot was developed to deliver instant, symptom-based disease predictions and health information, improving healthcare access in underserved areas.",
+    "image": "WellBelle.jpg",
+    "tools": ["Python", "Flask", "JavaScript", "HTML", "CSS", "Multinomial Naive Bayes", "TF-IDF Vectorizer"],
+    "github": "https://github.com/tannpsy/Medical-Chatbot.git"
+  }
+]
