@@ -2,7 +2,7 @@ import { FiGithub, FiLinkedin, FiDownload, FiMail } from 'react-icons/fi';
 import { SiDiscord } from 'react-icons/si';
 import RevealOnScroll from '../components/RevealOnScroll';
 import profilePhoto from '../assets/profile.png';
-import cvFile from '../assets/CV_Intan-Kumala-Pasya.pdf';
+import cvFile from '../assets/IntanKumalaPasya_CV.pdf';
 
 export default function LandingPage() {
   return (
